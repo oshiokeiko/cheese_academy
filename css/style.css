@@ -19,7 +19,7 @@ header img{
 
 
 .hero{
-    background: url(/html_name_00/img/mainbg.png);
+    background: url(img/mainbg.png);
     background-repeat: no-repeat;
     height: 500px;
     background-size: cover;
